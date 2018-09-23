@@ -1,1 +1,3 @@
 # lab2-CPEN333
+
+Finished up to Part D, but couldn't find the part E referenced on pg.2 of the lab handout...
