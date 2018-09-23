@@ -15,7 +15,7 @@
 // to the compiler where it can find this file. This will of course depend upon where it resides
 // on your computer i.e. where you copied it to.
 
-#include "rt.h"
+#include "..\Q1\rt.h"
 
 // constructor to create a child process, takes four 
 //arguments, note that the last 3 make use
